@@ -78,8 +78,9 @@ you can just install it and theme it according to you using a framework called, 
 > #### NOTE: You don't have to edit config file for changing theme. You can change themes and other stuff like abbreviation, prompt, color scheme using command:
     fish_config
 ![Fish_COnfig](https://i.ibb.co/WDBVBZV/ezgif-com-gif-maker-1.gif "Fish_COnfig")
-
+------------
 ##Advantages of fish:
+
 **1,**  **Autosuggestion** (Works amazing): This feature gives you the capability of quick access to the commands as you type.
 
 ![Auto sugessttion fish](https://i.ibb.co/Hn2PRdC/Screenshot-from-2021-10-05-20-22-13.png "Auto sugessttion fish")
@@ -91,7 +92,7 @@ you can just install it and theme it according to you using a framework called, 
 **3.**  Syntax Highlighting.
 **4.** Spelling Correction.
 **5.**  Every feature that zsh and bash have.
-
+-------------
 ##Disadvantages of Fish:
 **Obvious error messeges:** When you screw up, Fish shows the errors and your faults plus the way that you can handle it!
 
