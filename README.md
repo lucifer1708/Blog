@@ -93,7 +93,9 @@ you can just install it and theme it according to you using a framework called, 
 
 **4.** Spelling Correction.
 
-**5.**  Every feature that zsh and bash have.
+**5.** Faster than any fancy shell.
+
+> And every feature that bash and zsh have.
 -------------
 ##Disadvantages of Fish:
 **Obvious error messeges:** When you screw up, Fish shows the errors and your faults plus the way that you can handle it!
