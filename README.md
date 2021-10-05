@@ -79,7 +79,7 @@ you can just install it and theme it according to you using a framework called, 
     fish_config
 ![Fish_COnfig](https://i.ibb.co/WDBVBZV/ezgif-com-gif-maker-1.gif "Fish_COnfig")
 ------------
-##Advantages of fish:
+## Advantages of fish:
 
 **1,**  **Autosuggestion** (Works amazing): This feature gives you the capability of quick access to the commands as you type.
 
