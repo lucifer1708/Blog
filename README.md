@@ -85,12 +85,14 @@ you can just install it and theme it according to you using a framework called, 
 
 ![Auto sugessttion fish](https://i.ibb.co/Hn2PRdC/Screenshot-from-2021-10-05-20-22-13.png "Auto sugessttion fish")
 
-**2.** ** Web interface:**  Feature of Fish is that you can configure it as a web interface running on your local server. 
+**2.** **Web interface:**  Feature of Fish is that you can configure it as a web interface running on your local server. 
 
 ![web interface](https://i.ibb.co/N2k0Xz6/Screenshot-from-2021-10-05-20-24-57.png "web interface")
 
 **3.**  Syntax Highlighting.
+
 **4.** Spelling Correction.
+
 **5.**  Every feature that zsh and bash have.
 -------------
 ##Disadvantages of Fish:
