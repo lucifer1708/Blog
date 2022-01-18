@@ -17,7 +17,7 @@ Shells are like brands. Everyone has a favourite and religiously defends that ch
 
 
  
-> ## I will be explaining 3 best of them.  :fa-paper-plane:
+> ## I will be explaining 3 best of them. 
  
 
 ------------
